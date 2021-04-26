@@ -27,4 +27,4 @@ P.S MyTaxi is Uber like app that connects  customers and drivers.
 
 <h3> 📈 My Stats (I mostly commit to private repos)</h3>
 
-<img src="https://github-readme-stats.vercel.app/api?usernamethealishd&show_icons=true&theme=vision-friendly-dark" alt="Alsher" width="100%" >
+<img src="https://github-readme-stats.vercel.app/api?usernamethealish&show_icons=true&theme=vision-friendly-dark" alt="Alsher" width="100%" >
