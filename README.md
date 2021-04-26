@@ -24,3 +24,7 @@ P.S MyTaxi is Uber like app that connects  customers and drivers.
 
 #### <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="golang" width="50" height="50" />
 #### <img src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-original.svg" alt="docker" width="50" height="50" />
+
+<h3> 📈 My Stats (I mostly commit to private repos)</h3>
+
+<img src="https://github-readme-stats.vercel.app/api?usernamethealishd&show_icons=true&theme=vision-friendly-dark" alt="Alsher" width="100%" >
