@@ -1,6 +1,6 @@
 # Hi my name is Alisher
 
-I am currently working as a back-end engineer at MyTaxi 
+I am currently work as a back-end engineer at MyTaxi 
 P.S MyTaxi is Uber like app that connects  customers and drivers.
 
 
