@@ -1,5 +1,7 @@
 # Hi my name is Alisher
 
+![](https://img.shields.io/github/followers/thealish?style=social)
+
 I am currently work as a back-end engineer at MyTaxi 
 P.S MyTaxi is Uber like app that connects  customers and drivers.
 
