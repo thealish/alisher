@@ -1,1 +1,22 @@
-# alisher
+# Hi my name is Alisher
+
+I am currently working as a back-end engineer at MyTaxi 
+P.S MyTaxi is Uber like app that connects  customers and drivers.
+
+
+# My Stack
+
+#### Python   🐍 ( Very good )
+- Django
+- FastAPI
+- AsyncIO
+
+#### PostgreSQL  (Very good)
+
+#### GoLang (not still proud)
+
+## Tools is use:
+<img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" alt="pycharm" width="25" height="25" /> <img src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-original.svg" alt="docker" width="25" height="25" /> <img src="https://github.com/devicons/devicon/raw/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="25" height="25" />  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="25" height="25" /> <img src="https://github.com/devicons/devicon/raw/master/icons/bash/bash-original.svg" alt="bash" width="25" height="25" /> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" />
+
+## Currently working hard on my:
+#### Golang and docker skills
