@@ -20,5 +20,5 @@ P.S MyTaxi is Uber like app that connects  customers and drivers.
 
 ## Currently working hard on my:
 
-#### <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="golang" width="50" height="50"
+#### <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="golang" width="50" height="50" />
 #### <img src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-original.svg" alt="docker" width="50" height="50" />
